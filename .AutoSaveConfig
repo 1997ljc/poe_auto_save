@@ -1,0 +1,25 @@
+{
+    "position": [
+        1726,
+        816,
+        2501,
+        1098
+    ],
+    "hotkey_0": "space+f1",
+    "hotkey_1": "space+f2",
+    "hotkey_2": "space+f3",
+    "redcells": [
+        [
+            0,
+            0
+        ],
+        [
+            1,
+            0
+        ],
+        [
+            2,
+            2
+        ]
+    ]
+}
