@@ -3,23 +3,14 @@
         1726,
         816,
         2501,
-        1098
+        1098,
+        283,
+        889
     ],
     "hotkey_0": "space+f1",
     "hotkey_1": "space+f2",
     "hotkey_2": "space+f3",
-    "redcells": [
-        [
-            0,
-            0
-        ],
-        [
-            1,
-            0
-        ],
-        [
-            2,
-            2
-        ]
-    ]
+    "redcells": [],
+    "card_keep_list": "['\u5e1d\u8fd0', '\u8c26\u900a', '\u865a\u7a7a', '\u5979\u7684\u9762\u5177', '\u5fe0\u8bda', '\u6df7\u6c8c\u4e4b\u96e8']",
+    "card_speed": 1
 }

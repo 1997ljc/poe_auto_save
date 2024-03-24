@@ -124,12 +124,7 @@ def save_all_config(root):
     )
     try:
         config_data = {}
-        location_list = [currency_location,
-                         left_up_location,
-                         right_down_location,
-                         confirm_location,
-                         right_path_location,
-                         left_path_location]
+        location_list = []
         config_data["location"] = location_list
         config_data["global_run_speed"] = global_run_speed
         config_data["base_filter"] = base_filter
@@ -200,7 +195,7 @@ def attention_window(root, width, height, title ,msg, font_size, destort_root = 
 
 
 def gen_random_time(speed):
-    return float(0.03 * speed + 0.0015 * random.randint(1, 50))
+    return float(0.02 * speed + 0.0015 * random.randint(1, 50))
 
 
 def gen_random_offset(position, tier=2.0):
